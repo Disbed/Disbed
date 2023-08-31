@@ -17,7 +17,7 @@
   ### Pra saber mais sobre mim me segue ai embaixo!
  
 <div> 
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-rodrigues-1655b5202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Disbed/Disbed/blob/output/github-contribution-grid-snake.svg)
 
